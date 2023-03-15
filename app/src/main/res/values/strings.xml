@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">TeamRandomizer</string>
+    <string name="action_settings">Settings</string>
+    <string name="fifa22">FIFA22 | Team Randomizer</string>
+    <string-array name="leagues">
+        <item>Pick a Country..</item>
+        <item>England</item>
+        <item>Spain</item>
+        <item>Italy</item>
+        <item>Germany</item>
+        <item>France</item>
+        <item>International</item>
+    </string-array>
+    <string-array name="eng_teams">
+        <item>Bournemouth</item>
+        <item>Arsenal</item>
+        <item>Aston Villa</item>
+        <item>Brentford</item>
+        <item>Brighton</item>
+        <item>Chelsea</item>
+        <item>Crystal Palace</item>
+        <item>Everton</item>
+        <item>Fulham</item>
+        <item>Leeds United</item>
+        <item>Leicester City</item>
+        <item>Liverpool</item>
+        <item>Manchester City</item>
+        <item>Manchester United</item>
+        <item>Newcastle United</item>
+        <item>Nottingham Forest</item>
+        <item>Southampton</item>
+        <item>Tottenham Hotspur</item>
+        <item>West Ham United</item>
+        <item>Wolverhampton Wanderers</item>
+    </string-array>
+    <string-array name="spa_teams">
+        <item>Almería</item>
+        <item>Athletic</item>
+        <item>Atlético Madrid</item>
+        <item>Barcelona</item>
+        <item>Betis</item>
+        <item>Cádiz</item>
+        <item>Celta Vigo</item>
+        <item>Elche</item>
+        <item>Espanyol</item>
+        <item>Getafe</item>
+        <item>Girona</item>
+        <item>Mallorca</item>
+        <item>Osasuna</item>
+        <item>Rayo Vallencano</item>
+        <item>Real Madrid</item>
+        <item>Real Sociedad</item>
+        <item>Sevilla</item>
+        <item>Valencia</item>
+        <item>Valladolid</item>
+        <item>Villarreal</item>
+    </string-array>
+    <string-array name="ita_teams">
+        <item>Atalanta</item>
+        <item>Bolonia</item>
+        <item>Cremonese</item>
+        <item>Empoli</item>
+        <item>Fiorentina</item>
+        <item>Inter</item>
+        <item>Juventus</item>
+        <item>Lazio</item>
+        <item>Lecce</item>
+        <item>Milan</item>
+        <item>Monza</item>
+        <item>Nápoles</item>
+        <item>Roma</item>
+        <item>Salernitana</item>
+        <item>Sampdoria</item>
+        <item>Sassuolo</item>
+        <item>Spezia</item>
+        <item>Torino</item>
+        <item>Udinese</item>
+        <item>Verona</item>
+    </string-array>
+    <string-array name="ger_teams">
+        <item>FC Bayern München</item>
+        <item>RB Leipzig</item>
+        <item>Borussia Dortmund</item>
+        <item>Vfl Wolfsburg</item>
+        <item>Eintracht Frankfurt</item>
+        <item>Bayer Leverkusen</item>
+        <item>FC Union Berlin</item>
+        <item>Borussia M\'gladbach</item>
+        <item>VfB Stuttgart</item>
+        <item>SC Freiburg</item>
+        <item>TSG Hoffenheim</item>
+        <item>FSV Mainz</item>
+        <item>FC Augsburg</item>
+        <item>Herta Berlin</item>
+        <item>FC Schalke</item>
+        <item>FC Köln</item>
+        <item>Vfl Bochum</item>
+        <item>SV Werder Bremen</item>
+    </string-array>
+    <string-array name="fra_teams">
+        <item>AC Ajaccio</item>
+        <item>AJ Auxerre</item>
+        <item>Angers SCO</item>
+        <item>AS Monaco</item>
+        <item>Clermont Foot 63</item>
+        <item>Estac Troyes</item>
+        <item>FC Lorient</item>
+        <item>FC Nantes</item>
+        <item>LOSC Lille</item>
+        <item>Montpellier Hérault SC</item>
+        <item>OGC Nice</item>
+        <item>Olympique de Marseille</item>
+        <item>Olympique Lyonnais</item>
+        <item>Paris Saint-Germain</item>
+        <item>RC Lens</item>
+        <item>RC Strasbourg Alsace</item>
+        <item>Stade Brestois 29</item>
+        <item>Stade de Reims</item>
+        <item>Stade Rennais FC</item>
+        <item>Toulouse FC</item>
+    </string-array>
+    <string-array name="int_teams">
+        <item>Argentina</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Belgium</item>
+        <item>Brazil</item>
+        <item>Canada</item>
+        <item>China PR</item>
+        <item>Czech Republic</item>
+        <item>Denmark</item>
+        <item>England</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Greece</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>Ireland</item>
+        <item>Italy</item>
+        <item>Mexico</item>
+        <item>Netherlands</item>
+        <item>New Zealand</item>
+        <item>Northern Ireland</item>
+        <item>Norway</item>
+        <item>Poland</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Scotland</item>
+        <item>Spain</item>
+        <item>Sweden</item>
+        <item>Ukraine</item>
+        <item>United States</item>
+        <item>Wales</item>
+    </string-array>
+
+</resources>

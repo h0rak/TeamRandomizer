@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/pickLeagueTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pick A League:" />
+
+    <Spinner
+        android:id="@+id/leagueSpinner"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/randomizeButton"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:text="Randomize" />
+
+    <TextView
+        android:id="@+id/team1TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/team2TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/team3TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        />
+
+    <Button
+        android:id="@+id/doOrDieButton"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:text="Do or Die" />
+
+    <TextView
+        android:id="@+id/team4TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="" />
+</LinearLayout>
