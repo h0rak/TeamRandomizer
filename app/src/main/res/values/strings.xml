@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">TeamRandomizer</string>
     <string name="action_settings">Settings</string>
-    <string name="fifa22">FIFA22</string>
+    <string name="fifa23">FIFA23</string>
     <string-array name="leagues">
         <item>Pick a Country..</item>
         <item>England</item>
