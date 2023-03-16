@@ -12,7 +12,7 @@
         <item>International</item>
     </string-array>
     <string-array name="eng_teams">
-        <item>Bournemouth</item>
+        <item>AFC Bournemouth</item>
         <item>Arsenal</item>
         <item>Aston Villa</item>
         <item>Brentford</item>
@@ -27,72 +27,72 @@
         <item>Manchester City</item>
         <item>Manchester United</item>
         <item>Newcastle United</item>
-        <item>Nottingham Forest</item>
+        <item>Nott\'m Forest</item>
         <item>Southampton</item>
-        <item>Tottenham Hotspur</item>
-        <item>West Ham United</item>
-        <item>Wolverhampton Wanderers</item>
+        <item>Spurs</item>
+        <item>West Ham</item>
+        <item>Wolves</item>
     </string-array>
     <string-array name="spa_teams">
-        <item>Almería</item>
-        <item>Athletic</item>
-        <item>Atlético Madrid</item>
-        <item>Barcelona</item>
-        <item>Betis</item>
-        <item>Cádiz</item>
-        <item>Celta Vigo</item>
-        <item>Elche</item>
-        <item>Espanyol</item>
-        <item>Getafe</item>
-        <item>Girona</item>
-        <item>Mallorca</item>
-        <item>Osasuna</item>
+        <item>Athletic Club</item>
+        <item>Atlético de Madrid</item>
+        <item>CA Osasuna</item>
+        <item>Cádiz CF</item>
+        <item>Elche CF</item>
+        <item>FC Barcelona</item>
+        <item>Getafe CF</item>
+        <item>Girona FC</item>
+        <item>R. Valladolid CF</item>
         <item>Rayo Vallencano</item>
+        <item>RC Celta</item>
+        <item>RCD Espanyol</item>
+        <item>RCD Mallorca</item>
+        <item>Real Betis</item>
         <item>Real Madrid</item>
         <item>Real Sociedad</item>
-        <item>Sevilla</item>
-        <item>Valencia</item>
-        <item>Valladolid</item>
-        <item>Villarreal</item>
+        <item>Sevilla FC</item>
+        <item>UD Almeria</item>
+        <item>Valencia CF</item>
+        <item>Villarreal CF</item>
     </string-array>
     <string-array name="ita_teams">
-        <item>Atalanta</item>
-        <item>Bolonia</item>
+        <item>Bergamo Calcio</item>
+        <item>Bologna</item>
         <item>Cremonese</item>
         <item>Empoli</item>
         <item>Fiorentina</item>
+        <item>Hellas Verona</item>
         <item>Inter</item>
         <item>Juventus</item>
-        <item>Lazio</item>
+        <item>Latium</item>
         <item>Lecce</item>
         <item>Milan</item>
         <item>Monza</item>
-        <item>Nápoles</item>
-        <item>Roma</item>
+        <item>Napoli FC</item>
+        <item>Roma FC</item>
         <item>Salernitana</item>
         <item>Sampdoria</item>
         <item>Sassuolo</item>
         <item>Spezia</item>
         <item>Torino</item>
         <item>Udinese</item>
-        <item>Verona</item>
     </string-array>
     <string-array name="ger_teams">
         <item>FC Bayern München</item>
         <item>RB Leipzig</item>
         <item>Borussia Dortmund</item>
         <item>Vfl Wolfsburg</item>
-        <item>Eintracht Frankfurt</item>
-        <item>Bayer Leverkusen</item>
-        <item>FC Union Berlin</item>
-        <item>Borussia M\'gladbach</item>
+        <item>Frankfurt</item>
+        <item>Leverkusen</item>
+        <item>Union Berlin</item>
+        <item>M\'gladbach</item>
         <item>VfB Stuttgart</item>
         <item>SC Freiburg</item>
         <item>TSG Hoffenheim</item>
         <item>FSV Mainz</item>
         <item>FC Augsburg</item>
-        <item>Herta Berlin</item>
-        <item>FC Schalke</item>
+        <item>Hertha Berlin</item>
+        <item>FC Schalke 04</item>
         <item>FC Köln</item>
         <item>Vfl Bochum</item>
         <item>SV Werder Bremen</item>
@@ -103,17 +103,17 @@
         <item>Angers SCO</item>
         <item>AS Monaco</item>
         <item>Clermont Foot 63</item>
-        <item>Estac Troyes</item>
+        <item>ESTAC Troyes</item>
         <item>FC Lorient</item>
         <item>FC Nantes</item>
         <item>LOSC Lille</item>
-        <item>Montpellier Hérault SC</item>
+        <item>Montpellier</item>
         <item>OGC Nice</item>
         <item>Olympique de Marseille</item>
         <item>Olympique Lyonnais</item>
         <item>Paris Saint-Germain</item>
         <item>RC Lens</item>
-        <item>RC Strasbourg Alsace</item>
+        <item>Strasbourg</item>
         <item>Stade Brestois 29</item>
         <item>Stade de Reims</item>
         <item>Stade Rennais FC</item>
@@ -127,25 +127,28 @@
         <item>Brazil</item>
         <item>Canada</item>
         <item>China PR</item>
+        <item>Croatia</item>
         <item>Czech Republic</item>
         <item>Denmark</item>
         <item>England</item>
         <item>Finland</item>
         <item>France</item>
         <item>Germany</item>
-        <item>Greece</item>
+        <item>Ghana</item>
         <item>Hungary</item>
         <item>Iceland</item>
         <item>Ireland</item>
         <item>Italy</item>
         <item>Mexico</item>
+        <item>Morocco</item>
         <item>Netherlands</item>
         <item>New Zealand</item>
         <item>Northern Ireland</item>
         <item>Norway</item>
         <item>Poland</item>
+        <item>Portugal</item>
+        <item>Qatar</item>
         <item>Romania</item>
-        <item>Russia</item>
         <item>Scotland</item>
         <item>Spain</item>
         <item>Sweden</item>
